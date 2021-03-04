@@ -1,8 +1,11 @@
+// Example from https://github.com/progmboy/openprocmon/blob/master/sdk/example/example.cpp
+//     with anjustment of header mapping for cmake
+
 #include <conio.h>
 #include <atltime.h>
 
 //Define source_group in CMake to use project header this way
-#include "../include/libprocmon/sdk.hpp"
+#include <sdk.hpp>
 
 
 class CMyEvent : public IEventCallback
