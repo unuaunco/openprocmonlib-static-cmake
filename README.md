@@ -10,7 +10,7 @@ This project was tested with MSVC builder. Use it to get same result.
 
 1. Clone
 
-       link
+       https://github.com/unuaunco/openprocmonlib-static-cmake.git
 
 2. Configure
 
